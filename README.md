@@ -10,7 +10,7 @@
 
 1. **Clone the Repository**
    ```bash
-   https://github.com/CryptoAirdropHindi/Monad-Bot.git
+   git clone https://github.com/CryptoAirdropHindi/Monad-Bot.git
    cd Monad-Bot
    ```
 2. **Install Dependencies**
